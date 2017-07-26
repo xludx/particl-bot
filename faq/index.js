@@ -44,11 +44,15 @@ module.exports = function (config) {
      */
     function execute(commandParams, callback) {
 
-        if(_.has(topics, commandParams[0])){
+        if(_.isEmpty(commandParams) ){
+            callback(null, { text: 'topics: ' + _.keys(topics) });
+        } else if(_.has(topics, commandParams[0])){
             var file = topics[commandParams[0]];
             fs.readFile(path.join(path.dirname(require.main.filename), 'plugins/faq/' + file), {encoding: 'utf-8'}, function (error, fileContent) {
                 callback(error, { text: fileContent });
             });
+        } else {
+            callback('no such topic.', null);
         }
     }
 
