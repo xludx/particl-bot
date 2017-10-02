@@ -6,16 +6,9 @@
 
 > Offending others (anywhere), being disrespectful (anywhere), constantly writing offtopic stuff in #general will lead to a ban in favor of a good vibe in our channels. But we embrace any discussion as long as it's relevant to it's channel.
 
-*These channels you should subscribe*
+*You have been subscribed*
 
-*#general* - for any PARTICL related topic (don't get too offtopic)
-*#announcements* - for latest updates & news
-*#media* - for mentions of PARTICL in any media
-*#suggestions* - to give feedback and/or pitching ideas towards PARTICL
-*#trading* - for any trading discussions (ideally related to PARTICL)
-*#help* - for assistance (have you tried turning it off and on again?)
-*#trollbox* - for any other pleasant talk (really anything)
-
+To the most common channels within Slack. If you are using RIOT subscribe to these rooms also https://particl.wiki/socialmedia-channels#riot 
 
 *Getting into PARTICL*
 
@@ -23,16 +16,14 @@
 
 *What is PARTICL as Video* 1:10min https://www.youtube.com/watch?v=PRxmGh24ILU
 *What is PARTICL as Text* https://particl.io/#about
-*FAQ* on Reddit https://www.reddit.com/r/Particl/wiki/faq
 
 > Best info resources
 
 *Homepage* https://particl.io
 *Official News* https://particl.news
-*Reddit Community* https://www.reddit.com/r/Particl (recommended resource)
-*Youtube 8 PART Series* http://www.youtube.com/playlist?list=PLMBYy3lWO3DnQKkVioYvsdQR0HhoNjSgu
-*Twitter* https://twitter.com/particlproject (get Infos pushed to you)
-*External Articles* https://decentralize.today/@cryptoguard & https://decentralize.today/why-people-will-love-the-particl-market-376aefac5b60 (From contributing and active Member)
+*Official Wiki* https://particl.wiki
+*Socialmedia* https://particl.wiki/socialmedia-channels
+*External Articles* https://particl.wiki/articles-about-particl
 
 
 *DEVELOPERS • MARKETERS • ASSISTANTS • GFX EXPERTS • NETWORKERS • ARTISTS • VISIONARY MINDS • ENTREPRENEURS - We want you!*
